@@ -65,7 +65,7 @@
             // RestTime
             // 
             this.RestTime.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.RestTime.Location = new System.Drawing.Point(279, 13);
+            this.RestTime.Location = new System.Drawing.Point(279, 12);
             this.RestTime.Name = "RestTime";
             this.RestTime.Size = new System.Drawing.Size(117, 19);
             this.RestTime.TabIndex = 3;
